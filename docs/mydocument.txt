@@ -1,0 +1,1 @@
+Heellow Abdullah this is writing to file through node js
